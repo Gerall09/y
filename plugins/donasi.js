@@ -11,7 +11,7 @@ const anjg = `
 *-------「 DONATE 」 -------*
 
 Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
+Bukan Nya Memaksa Dengan Donasi Kalian Sudah Bersedekah,
 
 Berapapun donasi kalian akan sangat berarti 👍
 
@@ -19,7 +19,7 @@ Thanks!`
 const linkyt = `${ytlu}`
 const linkig = `${instalu}`
 const upt = `BOT Active During ${uptime}`
- let url = `https://telegra.ph/file/b1e1129b41affeb0c9778.jpg`
+ let url = `https://saweria.co/Gerall`
 let res = await fetch(url)
 let buffer = await res.buffer()
 let message = await prepareWAMessageMedia({ image: buffer }, { upload: conn.waUploadToServer })
